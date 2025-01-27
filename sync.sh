@@ -1,2 +1,0 @@
-rsync --progress -rvht --delete-after --exclude-from='sync_exclude'   sergii3d_andrey@sergii3d.beget.tech:~/spinelife.seo-gravity.ru/public_html/* ./
-rsync --progress -rvht  --delete-after --exclude-from='sync_exclude'  sergii3d_andrey@sergii3d.beget.tech:~/spinelife.seo-gravity.ru/public_html/.[^.]* ./
